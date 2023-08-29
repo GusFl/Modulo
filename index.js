@@ -5,7 +5,8 @@ let frases=[
 ]
 
 function obtieneFrase(indice) {
-    return frases(indice)  
+    return frases[indice]
+      
 }
 
 console.log(module);
